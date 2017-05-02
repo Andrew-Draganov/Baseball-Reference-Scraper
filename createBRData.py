@@ -105,11 +105,11 @@ if __name__ == "__main__":
             'Texas Rangers': 28, 'Toronto Blue Jays': 29, 
             'Washington Nationals': 30, 'Baltimore Orioles' : 3}
     
-    # all_orders contains information about the order of the data
-    # all_orders is what the headers of our tables should be
+    # all_categories contains information about the headers of the data
+    # all_categories is what the headers of our tables should be
 
     # all_data is the data itself
-    # all_data and all_orders will both have the same keys
+    # all_data and all_categories will both have the same keys
     # So all_data['batting'] = the 2D array of batting data
     #    all_orders['batting'] = the headers for each column of batting data
     
